@@ -4,7 +4,7 @@ This is the repo for the code of "A Track Obstacle Detection Algorithm for Under
 
 # Model
 SGF-DETR: An improved DETR-based object detection model for low-illumination and dusty underground coal mine environments. The model configuration (i.e., network construction) file is SGF-DETR.yaml
-in the directory .ultralytics/cfg/models/rt-detr/SGF-DETR.yaml"
+in the directory ```.ultralytics/cfg/models/rt-detr/SGF-DETR.yaml"```
 
 # Installation
 ```bash
