@@ -7,7 +7,9 @@ SGF-DETR: An improved DETR-based object detection model for low-illumination and
 in the directory .ultralytics/cfg/models/rt-detr/SGF-DETR.yaml"
 
 # Installation
+```bash
 pip install -r requirements.txt
 
 # Training
+```bash
 python train.py
