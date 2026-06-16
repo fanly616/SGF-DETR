@@ -9,7 +9,8 @@ in the directory .ultralytics/cfg/models/rt-detr/SGF-DETR.yaml"
 # Installation
 ```bash
 pip install -r requirements.txt
-
+```
 # Training
 ```bash
 python train.py
+```
