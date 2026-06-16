@@ -14,3 +14,6 @@ pip install -r requirements.txt
 ```bash
 python train.py
 ```
+
+## Dataset
+The underground coal mine object detection dataset is not included in this repository due to file size limits. You can download it via the following link:https://pan.baidu.com/s/16jBbLgeX8pqMdP_4sGj-cg?pwd=kji6
